@@ -16,6 +16,22 @@
     font-weight: 700;
     color: white;
     padding: 18px 35px;
+    margin-right: 20px;
+   
+
+}
+.btn-primary1{
+
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid #fd6e0a;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    color: #fd6e0a;
+    padding: 18px 35px;
+    margin-right: 20px;
+   
 
 }
 .section-title{
@@ -67,9 +83,9 @@ nav a{
 /* header realated style  */
 .header{
     background-color: #FFF8F3;
-    background-image: url('../images/header_bg.png');
+    background-image: url('../images/header_bg.png'), url('../images/developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, top left;
 }
 .banner{
     padding: 30px 30px 0px 150px;
